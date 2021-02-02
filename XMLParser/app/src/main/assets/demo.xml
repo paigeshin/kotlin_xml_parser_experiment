@@ -1,0 +1,86 @@
+<channel>
+    <title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+    <link>https://krdict.korean.go.kr</link>
+    <description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+    <lastBuildDate>20210202032238</lastBuildDate>
+    <total>3</total>
+    <start>1</start>
+    <num>10</num>
+    <item>
+        <target_code>62775</target_code>
+        <word>생활 정보지</word>
+        <sup_no>0</sup_no>
+        <origin>生活情報誌</origin>
+        <pos />
+        <link>
+            https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62775
+        </link>
+        <sense>
+            <sense_order>1</sense_order>
+            <definition>생활에 필요한 다양한 정보를 제공하는 잡지.</definition>
+            <translation>
+                <trans_lang>프랑스어</trans_lang>
+                <trans_word>
+                    <![CDATA[ ]]>
+                </trans_word>
+                <trans_dfn>
+                    <![CDATA[
+Revue offrant des informations variées nécessaires à la vie quotidienne.
+]]>
+                </trans_dfn>
+            </translation>
+        </sense>
+    </item>
+    <item>
+        <target_code>75791</target_code>
+        <word>정보지</word>
+        <sup_no>0</sup_no>
+        <origin>情報誌</origin>
+        <pronunciation>정보지</pronunciation>
+        <pos>명사</pos>
+        <link>
+            https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=75791
+        </link>
+        <sense>
+            <sense_order>1</sense_order>
+            <definition>특정 분야에 대한 자세한 정보를 제공하는 잡지.</definition>
+            <translation>
+                <trans_lang>프랑스어</trans_lang>
+                <trans_word>
+                    <![CDATA[ brochure, bulletin ]]>
+                </trans_word>
+                <trans_dfn>
+                    <![CDATA[
+Magazine qui fournit des informations détaillées sur un domaine déterminé.
+]]>
+                </trans_dfn>
+            </translation>
+        </sense>
+    </item>
+    <item>
+        <target_code>88082</target_code>
+        <word>후보지</word>
+        <sup_no>0</sup_no>
+        <origin>候補地</origin>
+        <pronunciation>후보지</pronunciation>
+        <pos>명사</pos>
+        <link>
+            https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88082
+        </link>
+        <sense>
+            <sense_order>1</sense_order>
+            <definition>앞으로 어떤 목적으로 사용될 가능성이 있는 곳.</definition>
+            <translation>
+                <trans_lang>프랑스어</trans_lang>
+                <trans_word>
+                    <![CDATA[ (lieu) candidat(e) ]]>
+                </trans_word>
+                <trans_dfn>
+                    <![CDATA[
+Endroit qui a la possibilité d'être utilisé dans un certain but.
+]]>
+                </trans_dfn>
+            </translation>
+        </sense>
+    </item>
+</channel>
